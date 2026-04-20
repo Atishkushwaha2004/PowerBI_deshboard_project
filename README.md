@@ -9,6 +9,7 @@ Interactive charts and filters
 
 Real-time data refresh (if connected)
 
+
 KPI indicators (Revenue, Profit, etc.)
 
 Drill-through reports
